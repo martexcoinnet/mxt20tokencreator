@@ -1,5 +1,5 @@
-## TokenFactory
-Issuing your own cryptocurrency token on the Ethereum,Binance and all EVM Blockchain with One-Click.
+## Memecoin Creator
+Issuing your own memecoin token on the Ethereum,Binance and all EVM Blockchain with One-Click.
 Support Mintable,Pausable,Capped,Burnable,USDT and multi Function ERC20 Tokens,BEP20 token.Create Token,Generate Token Defi DAPP MultiSender
 
 Support All the Ethereum EVM-compatible blockchains:
@@ -9,22 +9,8 @@ And you could also deploy these token to any test network,like: Ropsten,Kovan,Ri
  
 <img src="website.png">
  
+Website:[https://CryptoDappRun.github.io/Token-Factory/](https://memecointech.github.io/memecoincreatorfree/)<br>
 
-Website1: https://erc20tokenfactory.netlify.app<br>
-Website2:https://CryptoDappRun.github.io/Token-Factory/<br>
-
-
-Tutorial Video:<br>
-https://youtu.be/37eDqbnDKhI<br>
-
- 
-
-Support network:
-https://algocryptodapp.github.io/Blockchain-To-Metamask/
-
-イーサリアムERC20トークンのワンクリック発行<br>
-การออกโทเค็น Ethereum ERC20 เพียงคลิกเดียว<br>
-以太坊/以太坊相似 ERC20代币一键发币<br>
 صدور نشانه های Ethereum ERC20 با یک کلیک
 
 ERC20 token
