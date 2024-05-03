@@ -10,32 +10,3 @@ And you could also deploy these token to any test network,like: Ropsten,Kovan,Ri
 <img src="website.png">
  
 Website:[https://CryptoDappRun.github.io/Token-Factory/](https://memecointech.github.io/memecoincreatorfree/)<br>
-
-صدور نشانه های Ethereum ERC20 با یک کلیک
-
-ERC20 token
-### Support Language:
-English
-简体中文
-русский
-한국어
-日本語
-ไทย
-
-فارسی
-
-### Need Earn cryptocurrency?
-1.Download this project,put to any web server.<br>
-2.Open js/config.js<br>
-3.Change the address to your own address,customize fee you will recieve. then start earn cryptocurrency!<br>
-
-Tips<br>
-After modifying the address, please refresh the website to visit after more than ten minutes, because the github cache or website may not have been changed, so the charging address is still the previous address.<br>
- 
-
-You can deployed this source to any server and change the brand name without my approve.
-
-
-Bee sender Token Airdop:
-https://github.com/CryptoDappRun/Bee-Sender
-
