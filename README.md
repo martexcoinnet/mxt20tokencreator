@@ -8,4 +8,4 @@ You can deploy these token to any Ethereum Virtual Machine Blockchain.
  
 <img src="website.png">
  
-Website:[https://martexcoinnet.github.io/mxt20tokencreator/](https://martexcoinnet.github.io/mxt20tokencreator/)<br>
+Website:[https://martexcoinnet.github.io/mxt20tokens//](https://martexcoinnet.github.io/mxt20tokens/)<br>
